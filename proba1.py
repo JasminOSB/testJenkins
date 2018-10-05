@@ -1,1 +1,1 @@
-print "RADI 2"
+print("RADI 2")
